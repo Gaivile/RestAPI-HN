@@ -1,0 +1,8 @@
+c:\users\imuyburna69@one.lt\documents\visual studio 2015\Projects\RestAPI\RestAPI\bin\Debug\RestAPI.exe.config
+c:\Users\imuyburna69@one.lt\Documents\Visual Studio 2015\Projects\RestAPI\RestAPI\bin\Debug\RestAPI.exe
+c:\Users\imuyburna69@one.lt\Documents\Visual Studio 2015\Projects\RestAPI\RestAPI\bin\Debug\RestAPI.pdb
+c:\Users\imuyburna69@one.lt\Documents\Visual Studio 2015\Projects\RestAPI\RestAPI\bin\Debug\Newtonsoft.Json.dll
+c:\Users\imuyburna69@one.lt\Documents\Visual Studio 2015\Projects\RestAPI\RestAPI\bin\Debug\Newtonsoft.Json.xml
+c:\Users\imuyburna69@one.lt\Documents\Visual Studio 2015\Projects\RestAPI\RestAPI\obj\Debug\RestAPI.csprojResolveAssemblyReference.cache
+c:\Users\imuyburna69@one.lt\Documents\Visual Studio 2015\Projects\RestAPI\RestAPI\obj\Debug\RestAPI.exe
+c:\Users\imuyburna69@one.lt\Documents\Visual Studio 2015\Projects\RestAPI\RestAPI\obj\Debug\RestAPI.pdb
