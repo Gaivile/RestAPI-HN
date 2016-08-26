@@ -1,6 +1,6 @@
 # Rest API - Hacker News
 
-Coding exercise to make calls to Rest Api and parse data with C# using the powerfull and widespread Newtonsoft JSON library: http://www.newtonsoft.com/json/help/html/deserializeobject.html.
+Coding exercise to make calls to Rest Api and parse data with C# using the powerfull and widespread Newtonsoft JSON library: http://www.newtonsoft.com/json/help/html/deserializeobject.htm.
 
 Using Hacker News API (more info and samples: https://github.com/HackerNews/API).
 
